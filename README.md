@@ -4,6 +4,8 @@ See the [PLISS slides](http://tpetricek.github.io/Talks/2025/programming-systems
 background information on the project. (Use down arrow to get to the next slide or Esc to
 see the full two-dimensional structure!)
 
+![](tinyboxer.png)
+
 ## Instructions
 
 There are 5 steps, gradually implementing Tiny Boxer:
