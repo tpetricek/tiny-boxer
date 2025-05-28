@@ -30,3 +30,5 @@ npm run start
 ```
 
 Once running, open http://127.0.0.1:8000 in your web browser and `main.ts` in some editor. Make edits, refresh your web page. Make sure to open browser debugging tools to see error messages!
+
+After completing the first step, you can move to `step2` and run the above commands again. Alternatively, you can run the above in some separate working directory and then copy `main.ts` and `index.html` from the next step into the working directory. (Make sure not to accidentally overwrite your solution!!)
